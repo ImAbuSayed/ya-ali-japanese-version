@@ -1,2 +1,18 @@
-# ya-ali-japanese-version
-Ya Ali (Japanese Version) — Original song by Abu Sayed
+# 🎵 Ya Ali (Japanese Version)
+        
+*Original song by **[Abu Sayed](https://abusayed.com.bd)***
+
+**Date Written:** August 27, 2025
+**Status:** Published on [abusayed.com.bd](https://abusayed.com.bd/projects/ya-ali-japanese-version/)
+
+---
+
+## 📖 About this Song
+Song Ya Ali (Japanese Version) Lyric ヤー・アリー！ ヤー・アリー！魂が燃える(Ya Ali! Ya Ali! Tamashii ga moeru)ヤー・アリー！ ヤー・アリー！心臓のビート(Ya Ali! Ya Ali! Shinzou no biito)ダム・ダム・アリー・アリー！この夜を揺らせ(Dam Dam Ali Ali! Kono yoru wo yurase)ダム・ダム・アリー・アリー！君へと向かえ(Dam Dam Ali Ali! Kimi e to mukae) 砂漠に咲いた一輪の花光の矢のよう　心を射抜く君のその瞳はズルフィカール僕の運命を切り開いてく一目で世界は色を変えたんだ 君が近づけば　カイバルさえ震えるこの高鳴りはもう止められない夜空の星屑　君のために集めてさあ、踊ろう　リズムに身を任せ ハック・アリー・アリー、マウラー・アリー・アリー！君こそが真実　僕のマスターアリー・アリー、マウラー・アリー！情熱の炎で　すべてを照らしてヤー・アリー・マウラ！君だけが欲しいこの愛は永遠の　聖なる誓い シェーレ・クダーのようなその気高さどんな闇も払う微笑みさこのサイードの魂は叫ぶ君のそばにいる、それが答え僕のすべてを君に捧げよう ハック・アリー・アリー、マウラー・アリー・アリー！君こそが真実　僕のマスターアリー・アリー、マウラー・アリー！情熱の炎で　すべてを照らしてヤー・アリー・マウラ！君だけが欲しいこの愛は永遠の　聖なる誓い ハイダリウム、カランダラム・マスタム君という存在にただ酔いしれる僕は君のバンダ・エ・ムルタザーひざまずいて愛を乞うだけさこの身も心も君のしもべ 君が微笑めば　世界中が輝くこの情熱はもう止められない電子のビートが　二人を繋いでいくさあ、踊ろう　夜が明けるまで ハック・アリー・アリー、マウラー・アリー・アリー！君こそが真実　僕のマスターアリー・アリー、マウラー・アリー！情熱の炎で　すべてを照らしてヤー・アリー・マウラ！君だけが欲しいこの愛は永遠の　聖なる誓い ラ・ファタ・イラ・アリー、この恋の勝利君以外にはあり得ないのさラ・サイフ・イラ・ズルフィカール君の愛が最強の剣だから僕らの道に敵などいない 君が近づけば　カイバルさえ震えるこの高鳴りはもう止められない夜空の星屑　君のために集めてさあ、踊ろう　リズムに身を任せ ハック・アリー・アリー、マウラー・アリー・アリー！君こそが真実　僕のマスターアリー・アリー、マウラー・アリー！情熱の炎で　すべてを照らしてヤー・アリー・マウラ！君だけが欲しいこの愛は永遠の　聖なる誓い マン・クント・マウラ…この世界の主が僕ならファ・アリーユン・マウラ…僕の主は君だけさシェーレ・ヤズダーンの魂で守り抜くよ時を超え、宇宙を超えて君を愛し続ける マウラー・アリー、マウラー・アリー(Maula Ali, Maula Ali)ダム・ダム・アリー・アリー！(Dam Dam Ali Ali!)ヤー・アリー！ヤー・アリー！(Ya Ali! […]
+
+---
+
+## 📝 Lyrics
+Refer to [lyrics.txt](./lyrics.txt) for clean text or [index.html](https://ImAbuSayed.github.io/ya-ali-japanese-version/) for the portfolio page.
+
+© Abu Sayed · All Rights Reserved
